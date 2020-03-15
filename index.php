@@ -5,7 +5,7 @@
 * There will always be only one integer that appears an odd number of times.
 */
 
-$array = [21,"hello", "hello", 21, "world","world", "hello",21];
+$array = [21,5, 5, 21, 8,8, 7,7,21];
 
 $array_count = array_count_values($array);
 
